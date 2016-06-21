@@ -85,11 +85,3 @@ ___
 | Carolyn J. Lawrence-Dill | Iowa State |triffid_at_iastate.edu |
 | Eric Lyons | University of Arizona / iPlant |ericlyons_at_email.arizona.edu
  |
-
-
-## Other Related projects
-
-* [DataOne] (https://www.dataone.org/)
-* [USDA GODAN](http://www-u.ree.usda.gov/godan-background)
-* [USDA Ag Data Commons](https://data.nal.usda.gov/)
-* [Planteome Phenotype Ontologies](http://www.planteome.org/about)
