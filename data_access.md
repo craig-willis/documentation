@@ -13,7 +13,8 @@ Data is organized into **datasets**, **collections** and **spaces**.
 * **Collections** consist of one or more datasets. Currently, we have collections to organize sensors by acquisition date and sensor. Users can create their own collections.
 * **Spaces** contain collections and datasets. TERRA-REF uses one space for each of the phenotyping platforms.
 
-To create an account, sign up at the [TERRA-REF Clowder site] (terraref.ncsa.illinois.edu/clowder), then send an email to [David LeBauer] (mailto:dlebauer@illinois.edu) for account approval. 
+To create an account, sign up at the [TERRA-REF Clowder site] (terraref.ncsa.illinois.edu/clowder) and wait for your account to be approved. 
+If you have questions or need additional access, send an email to [David LeBauer] (mailto:dlebauer@illinois.edu) for account approval. 
 
 ### Analyzing Data in Clowder
 
