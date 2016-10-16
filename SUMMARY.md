@@ -10,7 +10,7 @@
         * [Infrared head imaging](flir.md)
         * [Template](template.md)
         * Photochemical reflectance index
-        * Fluorescence intensity imaging
+        * [Fluorescence intensity imaging](fluorescence-intensity-imaging.md)
         * Short-wave infrared
         * [Visible light imaging](visible-light-imaging.md)
         * Visible-near-infrared imaging
