@@ -1,8 +1,16 @@
 # Infrared heat imaging data
 
+
+
+## Level
+
 ## Sensor information
 
 ### Calibration
+
+## Data format
+### Metadata
+### Image data
 
 ## Data access
 
