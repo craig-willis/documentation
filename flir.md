@@ -1,13 +1,16 @@
 # Infrared heat imaging data
 
+## Sensor information
 
-# Sensor information
+### Calibration
 
-## Calibration
+## Data access
 
-# Data access
+### Clowder
 
-## Clowder
-* 
-## Globus
+* https:\/\/terraref.ncsa.illinois.edu\/clowder\/collection\/57278c4de4b03269d7053865
+
+### Globus
+
 * flirIrCamera
+
