@@ -7,9 +7,19 @@
     * [Software](software.md)
 * [User Manual](user-manual.md)
     * [Data Products](data-products.md)
-        * [FLIR](flir.md)
-        * SWIR
+        * [Infrared head imaging](flir.md)
         * [Template](template.md)
+        * Photochemical reflectance index
+        * Fluorescence intensity imaging
+        * Short-wave infrared
+        * [Visible light imaging](visible-light-imaging.md)
+        * Visible-near-infrared imaging
+        * Atmospheric carbon dioxide
+        * Downwelling radiance
+        * Downwelling photosynthetically active radiation
+        * Environmental conditions
+        * Spectral reflectance
+        * Weather station
     * [Scientific Objectives and Experimental Design](scientific-objectives-and-experimental-design.md)
     * [Data Formatting](data-formatting.md)
     * [How to Access Data](how-to-access-data.md)
