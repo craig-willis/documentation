@@ -1,11 +1,13 @@
 # Infrared heat imaging data
 
-## Overview
 
-## Sensor information
+# Sensor information
 
-## Data access
+## Calibration
 
-### Clowder
+# Data access
 
-### Globus
+## Clowder
+* 
+## Globus
+* flirIrCamera
