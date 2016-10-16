@@ -8,7 +8,7 @@ Raw sensor data products used as inputs into computational processes to produce 
 
 | Dataset | Category | Sensor |
 | --- | --- | --- |
-| Fluorescence intesity imaging | Imaging | PSII Camera |
+| [Fluorescence intesity imaging](/fluorescence-intensity-imaging.md) | Imaging | PSII Camera |
 | [Infrared data for heat imaging](/flir.md) | Imaging | FLIR |
 | Photochemical reflectance index \(PRI\) | Imaging | Skye PRI |
 | Short-wave infrared | Imaging | Headwall SWIR |
