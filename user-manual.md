@@ -19,7 +19,9 @@ A central goal in providing this core reference dataset is to facilitate the dev
 
 Our objectives are to ensure that the software and data in the reference data and computing pipeline are _interoperable, reusable, extensible, and understandable_. Providing clear definitions of common formats will make it easier to analyze and exchange data and results.
 
-* [Summary of available data products](/data-products.md)
+This user manual is divided into the following sections:
+
+* Data Products: Summary of available data products
 * [Scientific objectives and experimental design](/scientific-objectives-and-experimental-design.md)
 * [Data use policy](/data_release_policy.md)
 
