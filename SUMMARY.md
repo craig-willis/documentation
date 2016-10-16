@@ -29,7 +29,7 @@
     * [What Data is Available](what-data-is-available.md)
     * [Data Use Policy](data_release_policy.md)
     * [Release \/ reprocessing schedule](s.md)
-* [User Tutorials](user-tutorials.md)
+    * [User Tutorials](user-tutorials.md)
 * [Architecture Documentation](architecture-documentation.md)
     * [Data Standards](data-standards.md)
         * [Environmental Data Standards](environmental-data.md)
