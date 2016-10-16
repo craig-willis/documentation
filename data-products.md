@@ -3,7 +3,7 @@
 ## Level 0
 
 | Level | Description | Category | Sensor |
-| -- | --- | --- | --- |
+| --- | ------------------------- | --- | --- |
 | 0 | Atmospheric carbon dioxide | Environmental | Vaisala CARBOCAP |
 | 0 | Downwelling radiance | Environmental | Ocean Optics STS-VIS |
 | 0 | Downwelling photosynthetically active radiation | Environmental | Quantum PAR |
