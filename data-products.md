@@ -4,6 +4,8 @@ The following tables list available TERRA-REF datasets. The tables will be updat
 
 ## Level 0
 
+Level 0 data is raw sensor data. This data is used as inputs into computational processes to produce calibrated data \(Level 1\) and higher-level derived data products.  For more information about derived data products, see sections below.
+
 | Dataset | Category | Sensor |
 | --- | --- | --- |
 | Fluorescence intesity imaging | Imaging | PSII Camera |
