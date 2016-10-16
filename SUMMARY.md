@@ -5,6 +5,7 @@
     * [Workbench Overview](workbench-overview.md)
     * [Data Sources](data-sources.md)
     * [Software](software.md)
+    * Data Products
 * [User Manual](user-manual.md)
     * [Scientific Objectives and Experimental Design](scientific-objectives-and-experimental-design.md)
     * [Data Formatting](data-formatting.md)
@@ -16,6 +17,7 @@
     * [Data Use Policy](data_release_policy.md)
     * [Release \/ reprocessing schedule](s.md)
     * [User Tutorials](user-tutorials.md)
+    * [Data Products](data-products.md)
 * [Architecture Documentation](architecture-documentation.md)
     * [Data Standards](data-standards.md)
         * [Environmental Data Standards](environmental-data.md)
