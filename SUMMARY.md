@@ -10,6 +10,7 @@
     * [Data Products](data-products.md)
         * [FLIR](flir.md)
         * SWIR
+        * [Template](template.md)
     * [Scientific Objectives and Experimental Design](scientific-objectives-and-experimental-design.md)
     * [How to Access Data](how-to-access-data.md)
         * [Using Clowder](using-clowder.md)
