@@ -28,4 +28,3 @@ This user manual is divided into the following sections:
 * Description of the [scientific objectives and experimental design](/scientific-objectives-and-experimental-design.md)
 * [Data use policy](/data_release_policy.md): Information about data use and attribution
 * [User Tutorials](/user-tutorials.md): In-depth examples of how to access and use the TERRA-REF data
-
