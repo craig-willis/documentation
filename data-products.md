@@ -8,11 +8,11 @@ Raw sensor data products are used as inputs into computational processes to prod
 
 | Dataset  | Category | Description |
 | ---  | --- | --- |
-| [3D point cloud](/stereo-imaging.md) | Imaging | Prosilica camera output|
 | [Fluorescence intesity imaging](/fluorescence-intensity-imaging.md) | Imaging | PSII camera output |
+| [Hyperspectral imaging data](/hyperspectral-imaging-data.md) | Imaging | SWIR and VNIR sensor output|
 | [Infrared heat imaging data](/infrared.md) | Imaging | FLIR sensor output|
-| [Hyperspectral imaging data](/hyperspectral-data.md) | Imaging | SWIR and VNIR sensor output|
 | [Multispectral imaging data](/multispectral-imaging-data.md) | Imaging | PRI and NDVI sensor output|
+| [Stereo imaging data](/stereo-imaging.md) | Imaging | Prosilica camera output|
 | [Environmental conditions](/environmental-conditions-data.md)  | Environmental | Environmental sensors output|s
 | Genomics | Genomics | | 
 | UAV and Phenotractor | | |  
@@ -26,7 +26,7 @@ Raw sensor data products are used as inputs into computational processes to prod
 | --- | --- |
 | Demosaic |  |
 | EnvironmentalLogger |  |
-| scanner3DTop |
+| 3D point cloud |
 
 ## Level 3
 
