@@ -19,7 +19,7 @@ Raw FLIR fluorescence imaging output is Level 0 data.
 * Description of sensor variable metadata
 
 
-### Transformations
+### Derived data
 
 * Fluoresence imaging data is ...  using the multispectral extractor
 
