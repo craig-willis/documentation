@@ -1,25 +1,25 @@
 # Data Products
 
-The following tables list available TERRA-REF datasets. The tables will be updated as new datasets are released.  Links are provided to pages with detailed information about each dataset.
+The following tables list available TERRA-REF data products. The tables will be updated as new datasets are released.  Links are provided to pages with detailed information about each data product.
 
 ## Level 0
 
-Raw sensor data products used as inputs into computational processes to produce calibrated  \(Level 1\) and higher-level derived data products.  For more information about derived data products, see sections below.
+Raw sensor data products are used as inputs into computational processes to produce calibrated  \(Level 1\) and higher-level derived data products.  For more information about derived data products, see sections below.
 
-| Dataset | Category | Sensor |
-| --- | --- | --- |
-| [Fluorescence intesity imaging](/fluorescence-intensity-imaging.md) | Imaging | PSII Camera |
-| [Infrared data for heat imaging](/flir.md) | Imaging | FLIR |
-| Photochemical reflectance index \(PRI\) | Imaging | Skye PRI |
-| Short-wave infrared | Imaging | Headwall SWIR |
-| Visible light imaging \(stereo\) | Imaging | Prosilica |
-| Visible-near-infrared | Imaging | Headwall VNIR |
-| Atmospheric carbon dioxide | Environmental | Vaisala CARBOCAP |
-| Downwelling radiance | Environmental | Ocean Optics STS-VIS |
-| Downwelling photosynthetically active radiation | Environmental | Quantum PAR |
-| Environmental \(relative humidity, temperature, air pressure, wind, radiation, precipication\) | Environmental | Thies Clima |
-| Spectral reflectance | Environmental | Crop Circle |
-| Weather station | Environmental |  |
+| Dataset  | Category | Description |
+| ---  | --- | --- |
+| [Infrared heat imaging data](/infrared.md)  | Imaging | FLIR sensor output| 
+| [Fluorescence intesity imaging](/fluorescence-intensity-imaging.md) | Imaging | PSII camera output |
+| [3D point cloud](/stereo-imaging.md) | Imaging | Prosilica camera output|
+| [Multispectral imaging data](/multispectral.md) | Imaging | PRI and NDVI sensor output|
+| [Hyperspectral imaging data](/hyperspectral.md) | Imaging | SWIR and VNIR sensor output|
+| [Environmental conditions](/environmental_conditions.md)  | Environmental | Environmental sensors output|
+| [Genomics](/genomics.md) | Genomics | | 
+| UAV and Phenotractor | | |  
+| Demosaic | Imaging | | 
+
+----
+
 
 ## Level 1
 

@@ -1,4 +1,4 @@
-# Infrared heat imaging data
+# Thermal IR Sensor \(FLIR\)
 
 Infrared heat imaging data is collected using a FLIR SC615 thermal sensor.
 
@@ -22,9 +22,11 @@ Raw FLIR thermal imaging output is Level 0 data.
 ### Transformations
 
 * FLIR data is converted to PNG thumbnail and GeoTIFF using the multispectral extractor
+
   * https:\/\/github.com\/terraref\/extractors-multispectral
 
 * List of related datasets \(what would be useful with this one\)
+
 
 ### Data access
 
