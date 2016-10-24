@@ -11,7 +11,7 @@ Raw sensor data products are used as inputs into computational processes to prod
 | [Infrared heat imaging data](/infrared.md)  | Imaging | FLIR sensor output| 
 | [Fluorescence intesity imaging](/fluorescence-intensity-imaging.md) | Imaging | PSII camera output |
 | [3D point cloud](/stereo-imaging.md) | Imaging | Prosilica camera output|
-| [Multispectral imaging data](/multispectral.md) | Imaging | PRI and NDVI sensor output|
+| [Multispectral imaging data](/multispectral-imaging-data.md) | Imaging | PRI and NDVI sensor output|
 | [Hyperspectral imaging data](/hyperspectral.md) | Imaging | SWIR and VNIR sensor output|
 | [Environmental conditions](/environmental_conditions.md)  | Environmental | Environmental sensors output|
 | [Genomics](/genomics.md) | Genomics | | 

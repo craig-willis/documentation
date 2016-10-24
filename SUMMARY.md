@@ -11,8 +11,8 @@
         * [Template](template.md)
         * [Fluorescence intensity imaging](fluorescence-intensity-imaging.md)
         * [Stereo imaging](stereo-imaging.md)
-        * Multispectral imaging data
-        * Hyperspectral data
+        * [Multispectral imaging data](multispectral-imaging-data.md)
+        * [Hyperspectral data](hyperspectral-data.md)
         * [Environmental conditions data](environmental-conditions-data.md)
     * [Scientific Objectives and Experimental Design](scientific-objectives-and-experimental-design.md)
     * [Data Formatting](data-formatting.md)
