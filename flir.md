@@ -1,4 +1,4 @@
-# Thermal IR Sensor \(FLIR\)
+# Infrared heat imaging data
 
 Infrared heat imaging data is collected using a FLIR SC615 thermal sensor.
 
@@ -8,18 +8,19 @@ Raw FLIR thermal imaging output is Level 0 data.
 
 ### Sensor information
 
+FLIR SC615
 * Gantry information \(link to Lemnatec documentation for sensor\)
 * [Vendor datasheet](https://terraref.ncsa.illinois.edu/clowder-dev/files/57eae632e4b00b25cabfa4a5?dataset=57eae625e4b00b25cabfa4a1&space=)
 * [Calibration certificate](https://terraref.ncsa.illinois.edu/clowder-dev/files/57eae632e4b00b25cabfa4ad?dataset=57eae625e4b00b25cabfa4a1&space=)
 
-### Data format
+### Raw data format
 
 * Description of raw data format
 
 * Description of sensor variable metadata
 
 
-### Transformations
+### Derived data
 
 * FLIR data is converted to PNG thumbnail and GeoTIFF using the multispectral extractor
 
