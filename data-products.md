@@ -8,15 +8,14 @@ Raw sensor data products are used as inputs into computational processes to prod
 
 | Dataset  | Category | Description |
 | ---  | --- | --- |
-| [Infrared heat imaging data](/infrared.md)  | Imaging | FLIR sensor output| 
-| [Fluorescence intesity imaging](/fluorescence-intensity-imaging.md) | Imaging | PSII camera output |
 | [3D point cloud](/stereo-imaging.md) | Imaging | Prosilica camera output|
-| [Multispectral imaging data](/multispectral-imaging-data.md) | Imaging | PRI and NDVI sensor output|
+| [Fluorescence intesity imaging](/fluorescence-intensity-imaging.md) | Imaging | PSII camera output |
+| [Infrared heat imaging data](/infrared.md) | Imaging | FLIR sensor output|
 | [Hyperspectral imaging data](/hyperspectral-data.md) | Imaging | SWIR and VNIR sensor output|
-| [Environmental conditions](/environmental_conditions.md)  | Environmental | Environmental sensors output|
-| [Genomics](/genomics.md) | Genomics | | 
+| [Multispectral imaging data](/multispectral-imaging-data.md) | Imaging | PRI and NDVI sensor output|
+| [Environmental conditions](/environmental-conditions-data.md)  | Environmental | Environmental sensors output|s
+| Genomics | Genomics | | 
 | UAV and Phenotractor | | |  
-| Demosaic | Imaging | | 
 
 ----
 
