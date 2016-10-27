@@ -2,38 +2,28 @@
 
 ### Summary
 
+X data is collected using the Y sensor. Raw output is converted to a format.
+
 ### Sensor information
+* Lemnatec specification
+* Vendor datasheet
+* Calibration certificate
 
 
-
-* Links to datasheet,calibration protocol, fixed metadata
-
-
-
-### Data format
-
-
-
-* Gantry and sensor variable metadata
-
-* Sensor output data format
-
-
-
-### Processes
-
-
-
-* Links to extractor descriptions, if applicable
-
+### Extractor
 
 
 ### Data access
 
+Data is available via Clowder and Globus:
+
+* Clowder:
+ * Link to collection
+* Globus:
+ * /sites/ua-mac/raw_data/output
 
 
-Information about how to access the dataset via Clowder, Globus, etc.
-
+For details about using this data via Clowder or Globus, please see [Data Access](/how-to-access-data.md) section.
 
 
 
