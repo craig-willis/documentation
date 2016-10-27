@@ -5,8 +5,8 @@
 The ARPA-E TERRA program aims to stimulate technical advances in high-throughput phenotyping of energy crops. A central component of the program is the creation of a core reference dataset, TERRA-REF, to facilitate the development of new analytical methods. The TERRA-REF dataset includes:
 
 * Raw output from sensors deployed on Lemnatec field and greenhouse systems, UAVs and tractors
-* Manually-collected fieldbooks along with protocols
-* Derived data, including phenomics data, from a variety of computational approaches
+* Manually-collected fieldbooks and associated protocols
+* Derived data, including phenomics data, from computational approaches
 * Genomic pipeline data
 
 The TERRA-REF reference dataset may be of interest to a variety of research communities including:
