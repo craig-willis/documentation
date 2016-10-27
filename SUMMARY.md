@@ -14,6 +14,8 @@
         * [Multispectral imaging data](multispectral-imaging-data.md)
         * [Hyperspectral data](hyperspectral-data.md)
         * [Environmental conditions data](environmental-conditions-data.md)
+        * [3D point cloud data](3d-point-cloud-data.md)
+        * Hyperspectral imaging data
     * [Scientific Objectives and Experimental Design](scientific-objectives-and-experimental-design.md)
     * [Data Formatting](data-formatting.md)
     * [How to Access Data](how-to-access-data.md)

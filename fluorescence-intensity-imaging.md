@@ -1,31 +1,19 @@
 # Fluorescence intensity imaging
 
-Fluorescence intensity data is collected using the PSII camera.
+### Summary 
 
-### Level
+Fluorescence intensity data is collected using the PSII camera. Raw image output is converted to a raster format (netCDF or GeoTIFF?).
 
-Raw FLIR fluorescence imaging output is Level 0 data.
 
 ### Sensor information
 
-* Gantry information \(link to Lemnatec documentation for sensor\)
+* Lemnatec specification
 * Vendor datasheet
 * Calibration certificate
 
-### Data format
+### Extractor
 
-* Description of raw data format
-
-* Description of sensor variable metadata
-
-
-### Derived data
-
-* Fluoresence imaging data is ...  using the multispectral extractor
-
-  * https:\/\/github.com\/terraref\/extractors-multispectral
-
-* List of related datasets \(what would be useful with this one\)
+* Fluorescence imaging data is converted to (netCDF/GeoTIFF) format using the [PSII extractor](https://github.com/terraref/extractors-multispectral)
 
 
 ### Data access
@@ -33,13 +21,9 @@ Raw FLIR fluorescence imaging output is Level 0 data.
 Thermal imaging data is available via Clowder and Globus:
 
 * Clowder:
-
-  * Link to collection
-
-
+  * PSII collection
 * Globus:
-  * \/sites\/ua-mac\/raw\_data\/pr2top
-
+  * /sites/ua-mac/raw_data/pr2top
 
 For details about using this data via Clowder or Globus, please see [Data Access](/how-to-access-data.md) section.
 
