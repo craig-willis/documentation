@@ -56,7 +56,6 @@
   * [Data Backup](data-backup.md)
   * [Data Collection](data-collection.md)
   * [Data Product Creation](data-product-creation.md)
-    * [Downwelling Spectral Radiances Data](downwelling-spectral-radiances-data.md)
     * [Genomic Data](genomic-data-product.md)
     * [Hyperspectral Data](hyperspectral-data.md)
   * [Quality Assurance and Quality Control](qaqc.md)
