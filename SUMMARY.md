@@ -46,7 +46,6 @@
   * [Data Standards](data-standards.md)
     * [Existing Data Standards](existing_data_standards.md)
     * [Agronomic and Phenotype Data Standards](agronomic-and-phenotype-data-standards.md)
-    * [Environmental Data Standards](products/environmental-conditions.md)
     * [Genomic Data Standards](genomic-data-standards.md)
     * [Sensor Data Standards](sensor-data-standards.md)
     * [Data Standards Committee](data-standards-committee.md)
